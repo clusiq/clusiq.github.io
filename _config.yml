@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Claudia Fleischmann
+author: Claudia Fleischmann
+logo: claudiafle.jpg
+description: <a href="https://www.instagram.com/clusiq/">Instagram</a><br><br><a href="https://www.linkedin.com/in/claudia-fleischmann-885b761ab/">LinkedIn</a>
+plugins:
+  - jekyll-seo-tag
