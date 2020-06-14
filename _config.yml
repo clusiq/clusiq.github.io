@@ -2,5 +2,4 @@ title: Minimal theme
 logo: /assets/img/claudiafle.jpg
 description: A Digital Portfolio for an Architecture Student at ETH
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
