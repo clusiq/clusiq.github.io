@@ -1,3 +1,9 @@
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p>I am a dedicated and ambitious
 Architecture student at ETH
 Zurich, finishing my Bachelor‘s
@@ -12,8 +18,13 @@ robotics and digital architecture, I
 believe the future of building lies
 in the union of handcraft and the
 digital.</p>
-<h3>Find my CV here</h3>
-<h3>Have a brief look into my short portfolio here</h3>
-<h3>And if you have more time: my whole academic portfolio here</h3>
+
+### [Find my CV here](assets/pdf/2_CV_CF.pdf)
+<br>
+
+### [Have a brief look into my short portfolio here](assets/pdf/3_Portfolio_Small_CF.pdf)
+<br>
+
+### [And if you have more time: my whole academic portfolio here]()
 
 
