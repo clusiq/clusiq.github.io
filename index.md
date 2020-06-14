@@ -3,7 +3,6 @@
 <br>
 <br>
 <br>
-<br>
 <p>I am a dedicated and ambitious
 Architecture student at ETH
 Zurich, finishing my Bachelor‘s
@@ -18,6 +17,7 @@ robotics and digital architecture, I
 believe the future of building lies
 in the union of handcraft and the
 digital.</p>
+<br>
 
 ### [Find my CV here](assets/pdf/2_CV_CF.pdf)
 <br>
