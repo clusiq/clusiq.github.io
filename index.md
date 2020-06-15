@@ -25,6 +25,6 @@ digital.</p>
 ### [Have a brief look into my short portfolio here](assets/pdf/3_Portfolio_Small_CF.pdf)
 <br>
 
-### [And if you have more time: my whole academic portfolio here]()
+### [And if you have more time: my whole academic portfolio here](assets/pdf/PortfolioV2Final.pdf)
 
 
